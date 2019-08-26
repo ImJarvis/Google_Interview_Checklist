@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTun
 
 Along with that i have bought his book Algorithm Design Manual ( Download it from the repo)
 
+Presentation used in the above tutorials can be downloded from following link -
+
+https://www3.cs.stonybrook.edu/~skiena/373/videos/
+
