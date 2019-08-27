@@ -19,3 +19,8 @@ Presentation used in the above tutorials can be downloded from following link -
 
 https://www3.cs.stonybrook.edu/~skiena/373/videos/
 
+
+For Discrete mathematics - Here is a Quora answer on books recommendation and how to approach towards it.
+Since from interview point of view, we need not to spend more depth first approach rather we should approach Discrete in Breadth First approach. This is a good answer to start up your prep ( will be adding books to download asap) -
+https://qr.ae/TWytcY
+
