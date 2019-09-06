@@ -24,3 +24,5 @@ For Discrete mathematics - Here is a Quora answer on books recommendation and ho
 Since from interview point of view, we need not to spend more depth first approach rather we should approach Discrete in Breadth First approach. This is a good answer to start up your prep ( will be adding books to download asap) -
 https://qr.ae/TWytcY
 
+Here is a playlist on youtube for discussing the solutions of Kenneth H Rosen Books problem
+https://www.youtube.com/watch?v=j_4eKKJ7Tx8&list=PL9P1J9q3_9fPEhjHJZxjcl_gCUE_3crzw
